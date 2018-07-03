@@ -1,0 +1,6 @@
+1.Create a database named dbtest
+2.Create a table name help for home page. Create 4 field named id,headline,news and image.
+3.Create a table name national_news for National page. Create 4 field named id,headline,news and image.
+4.Create a table name international_news for International page. Create 4 field named id,headline,news and image.
+5.Create a table name sports_news for Sports page. Create 4 field named id,headline,news and image.
+6.Create a table name crime_news for Crime page. Create 4 field named id,headline,news and image.  
